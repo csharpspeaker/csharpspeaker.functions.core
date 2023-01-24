@@ -1,0 +1,1 @@
+# csharpspeaker.functions.core
